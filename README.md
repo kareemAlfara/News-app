@@ -16,8 +16,9 @@ A beautifully designed News App built with Flutter that fetches and displays the
 
 ## 📱 Screenshots
 
-![Home Screen](assets/screenshots/homePage.png)
+![Home Screen](assets/screenshots/homepage.png)
 ![Article View](assets/screenshots/descriptionPage.png)
+
 ## 📂 Folder Structure
 
 ```plaintext
