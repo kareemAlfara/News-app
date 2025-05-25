@@ -37,10 +37,6 @@ lib/
 - [webview_flutter](https://pub.dev/packages/webview_flutter) 
 - [News API](https://newsapi.org/)
 
-## 🔧 Getting Started
-
-To run this project locally, follow these steps:
-
 ### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
